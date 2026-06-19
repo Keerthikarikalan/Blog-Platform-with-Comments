@@ -1,0 +1,30 @@
+body{
+    font-family:Arial;
+    margin:20px;
+}
+
+.post-form{
+    margin-bottom:20px;
+}
+
+input,textarea{
+    width:100%;
+    padding:10px;
+    margin:10px 0;
+}
+
+button{
+    padding:10px 20px;
+    cursor:pointer;
+}
+
+.post{
+    border:1px solid #ccc;
+    padding:15px;
+    margin-top:15px;
+}
+
+.comment{
+    margin-left:20px;
+    color:#555;
+}
